@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- Itoshiko Nurahman
+- Yogyakarta, Indonesia
+- Computer Science Major
+- On the web dev learning path
 <!--
 **itoshiko-nurahman/itoshiko-nurahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
